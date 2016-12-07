@@ -139,7 +139,7 @@ class BpXProfileWordPressUserSync {
 				$existing_first_name_field_name = $existing_fields['first_name_field_name'];
 				$existing_first_name_field_desc = $existing_fields['first_name_field_desc'];
 
-				// first name field
+				// last name field
 				$existing_last_name_field_id = $existing_fields['last_name_field_id'];
 				$existing_last_name_field_name = $existing_fields['last_name_field_name'];
 				$existing_last_name_field_desc = $existing_fields['last_name_field_desc'];
